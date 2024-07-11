@@ -2,6 +2,11 @@
 
 A simple Kerberos (+LDAP) server on top of the ApacheDS directory service. Just for testing and playing with the protocols.
 
+# Terminology
+https://en.wikipedia.org/wiki/Generic_Security_Services_Application_Program_Interface 
+GSS API - Generic Security Service Application Program Interface
+
+
 ## Run the Kerberos server
 
 Launch the generated JAR file. You can put LDIF files as the program arguments:
